@@ -9,10 +9,10 @@ Linux/Windows/Mac
 2. It's assumed that you already have Python (version 2.7 or 3.x) installed. Anaconda is recommended for installing Python https://www.anaconda.com/distribution/.
 3. Install Python GDAL (https://pypi.org/project/GDAL/).
 4. Once OpenCL drivers, Python and Python GDAL are properly installed, you can use pip to install the PyOpenCL package (https://pypi.org/project/pyopencl/). 
-5. Run pyopencl_test.py to test if PyOpenCL is working properly: python pyopencl_test.py.
+5. Run pyopencl_test.py to test if PyOpenCL is working properly: python pyopencl_test.py (or pyopencl_test_py3.py).
 
 ## Run PyCLKDE with Sample Data:
-1. Run pyopencl_test.py to see a list of available OpenCL computing platforms/devices on your computer: python pyopencl_test.py
+1. Run pyopencl_test.py to see a list of available OpenCL computing platforms/devices on your computer: python pyopencl_test.py (or pyopencl_test_py3.py).
 2. Change configurations in the OPENCL_CONFIG variable in utility/config.py accordingly, as well as the OPENCL_CONFIG variable in PyCLKDE_main.py.
 3. Run PyCLKDE_main.py to get a sense of how to use PyCLKDE (using example data provided): python PyCLKDE_main.py
 
