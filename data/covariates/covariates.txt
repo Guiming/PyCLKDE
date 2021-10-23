@@ -1,1 +1,2 @@
-covariates
+Example covariate data.
+Github does not allow files over 25 MB in size. BIO1.tif and BIO2.tif (the 1st and 2nd WorldClim bioclimatic variables) are resampled to 0.03333333 (degree) resolution (~ 4 km at the equator). These two covariates are used in the example run in PyCLKDE_main.py.
