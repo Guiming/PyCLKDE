@@ -22,7 +22,7 @@ Linux/Windows/Mac
 3. Run PyCLKDE_main.py: python PyCLKDE_main.py.py
 
 ## License
-Copyright 2022 Guiming Zhang. Distributed under MIT license.
+Copyright 2022 Guiming Zhang. Distributed under GNU license.
 
 ## Contact
 guiming.zhang@du.edu
