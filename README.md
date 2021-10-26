@@ -13,7 +13,7 @@ Linux/Windows/Mac
 
 ## Run PyCLKDE with Sample Data:
 1. Run pyopencl_test.py to see a list of available OpenCL computing platforms/devices on your computer: python pyopencl_test.py (or pyopencl_test_py3.py).
-2. Change configurations in the OPENCL_CONFIG variable in utility/config.py accordingly, as well as the OPENCL_CONFIG variable in PyCLKDE_main.py.
+2. Change configurations in the OPENCL_CONFIG variable in utility/config.py accordingly.
 3. Run PyCLKDE_main.py to get a sense of how to use PyCLKDE (using example data provided): python PyCLKDE_main.py
 
 ## Use PyCLKDE for Your Own Application:
