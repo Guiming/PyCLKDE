@@ -1,6 +1,9 @@
 # PyCLKDE
 A big data-enabled high-performance computational framework for species habitat suitability modeling and mapping
 
+## Citation
+Zhang, G. (2022). PyCLKDE: A big data-enabled high-performance computational framework for species habitat suitability modeling and mapping. Transactions in GIS, 26(4), 1754–1774. https://doi.org/10.1111/tgis.12901.
+
 ## Compatable Operating Systems
 Linux/Windows/Mac
 
